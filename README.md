@@ -1,5 +1,7 @@
 # workshop-0
 
+### Link to sketch: https://rbha917.github.io/workshop-0/
+
 - ; at the end of every function
 - highlight code and do ctrl + / to deactivate a section
 - function setup
